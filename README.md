@@ -1,5 +1,7 @@
 # CMPM121asg5
 Assignment 5 of Mark Gerow Class: Animation
+Jordan Kinard
+UCSC
 
 Controls:
 - F Key Controls Light
